@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.login p{
+    color: black;
+}
+.rw{
+    background: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+}
+
+.login img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.login h1{
+    color: black;
+    font-size: 4rem;
+    font-family: 'Anton', sans-serif;
+}
+
+.input{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 0px 1px 30px -12px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 1px 30px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 30px -12px rgba(0,0,0,0.75);
+}
+
+.btn1{
+    background: rgb(42, 197, 197);
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    transition: all,1s ease 0s ;
+}
+
+.btn1 a{
+    text-decoration: none;
+    color: white
+}
+
+.btn1:hover{
+    background: brown;
+}
+
+.facebook{
+    width: 45px;
+    cursor: pointer;
+}
+
+.gogle{
+    width: 40px;
+    cursor: pointer;
+}
+
